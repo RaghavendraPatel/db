@@ -2,57 +2,15 @@
     "products":[
         {
             "id": 1,
-            "name" : "iphone",
-            "description" : "jhdfhjdhf",
-            "price" : 1000
+            "name": "Oneplus Open (Voyager Black, 16GB RAM, 512GB Storage)",
+            "description": "Extraordinary materials blend the best of both. Titanium alloy, carbon fiber, and more. Built to the hilt with aerospace materials – with no expense spared. TÜV Rheinland “reliable folding” certified to 1,000,000 folds.Extreme durability for more than 100 folds every day – lasting over 10 years.",
+            "price": 139000
+            "images":[
+                "https://m.media-amazon.com/images/I/719QmmyMLYL._SX425_.jpg",
+                "https://m.media-amazon.com/images/I/718LQXZabKL._SX425_.jpg",
+                "https://m.media-amazon.com/images/I/71LIhuGh+4L._SX425_.jpg",
+                "https://m.media-amazon.com/images/I/813FGVkfcbL._SX425_.jpg"
+            ]
         },
-        {
-            "id": 2,
-            "name" : "iphone",
-            "description" : "jhdfhjdhf",
-            "price" : 1000
-        },
-        {
-            "id": 3,
-            "name" : "iphone",
-            "description" : "jhdfhjdhf",
-            "price" : 1000
-        },
-        {
-            "id": 4,
-            "name" : "iphone",
-            "description" : "jhdfhjdhf",
-            "price" : 1000
-        },
-        {
-            "id": 5,
-            "name" : "iphone",
-            "description" : "jhdfhjdhf",
-            "price" : 1000
-        },
-        {
-            "id": 6,
-            "name" : "iphone",
-            "description" : "jhdfhjdhf",
-            "price" : 1000
-        },
-        {
-            "id": 7,
-            "name" : "iphone",
-            "description" : "jhdfhjdhf",
-            "price" : 1000
-        },
-        {
-            "id": 8,
-            "name" : "iphone",
-            "description" : "jhdfhjdhf",
-            "price" : 1000
-        },
-        {
-            "id": 9,
-            "name" : "iphone",
-            "description" : "jhdfhjdhf",
-            "price" : 1000
-        }
     ]
 }
