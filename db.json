@@ -11,6 +11,78 @@
                 "https://m.media-amazon.com/images/I/71LIhuGh+4L._SX425_.jpg",
                 "https://m.media-amazon.com/images/I/813FGVkfcbL._SX425_.jpg"
             ]
+        },
+        {
+            "id":2,
+            "name": "OnePlus 9R 5G (Carbon Black, 8GB RAM, 128GB Storage)",
+            "description": "Qualcomm Snapdragon 870 5G with upgraded Qualcomm Kryo 585 CPU that performs intense mobile computing at up to 3.2 GHz and also comes with an ultra-fast Qualcomm Adreno 650 GPU for superb on-device experiences",
+            "price": 39999,
+            "images":[
+                "https://m.media-amazon.com/images/I/61IwksZ-DuL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61IwksZ-DuL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61IwksZ-DuL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61IwksZ-DuL._SX679_.jpg"
+            ]
+        },
+        {
+            "id":3,
+            "name":"Iphone 12 Pro Max",
+            "description":"6.7-inch Super Retina XDR display with ProMotion for a faster, more responsive feel",
+            "price": 129900,
+            "images":[
+                "https://m.media-amazon.com/images/I/71MHTD3uL4L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71MHTD3uL4L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71MHTD3uL4L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71MHTD3uL4L._SX679_.jpg"
+            ]
+        },
+        {
+            "id":4,
+            "name":"Samsung Galaxy S21 Ultra 5G (Phantom Black, 12GB, 256GB Storage)",
+            "description":"6.8-inch Dynamic AMOLED 2X Display, WQHD+ resolution with 3200 X 1440 pixels resolution, 515 PPI with 16M colours",
+            "price": 105999,
+            "images":[
+                "https://m.media-amazon.com/images/I/91M7V8vlS-L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/91M7V8vlS-L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/91M7V8vlS-L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/91M7V8vlS-L._SX679_.jpg"
+            ]
+        },
+        {
+            "id":5,
+            "name":"Samsung Galaxy Note 20 Ultra 5G (Mystic Black, 12GB RAM, 256GB Storage)",
+            "description":"6.9-inch (17.53 centimeters) WQHD+ dynamic Amoled display with 3088 x 1440 pixels resolution, 496 ppi pixel density and 16M color support",
+            "price": 104999,
+            "images":[
+                "https://m.media-amazon.com/images/I/81vDZyJQ-2L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/81vDZyJQ-2L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/81vDZyJQ-2L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/81vDZyJQ-2L._SX679_.jpg"
+            ]
+        },
+        {
+            "id":6,
+            "name":"Samsung Galaxy S21 Plus 5G (Phantom Black, 8GB, 128GB Storage)",
+            "description":"6.7-inch Dynamic AMOLED 2X Display, FHD+ resolution with 2400 X 1080 pixels resolution, 394 PPI with 16M colours",
+            "price": 81999,
+            "images":[
+                "https://m.media-amazon.com/images/I/91M7V8vlS-L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/91M7V8vlS-L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/91M7V8vlS-L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/91M7V8vlS-L._SX679_.jpg"
+            ]
+        },
+        {
+            "id":7,
+            "name":"Samsung Galaxy S20 FE 5G (Cloud Navy, 8GB RAM, 128GB Storage)",
+            "description":"6.5-inch (16.51 centimeters) Super AMOLED - Infinity-O display, FHD+ capacitive touchscreen with 1080 x 2400 pixels resolution, 407 ppi pixel density and Contrast Ratio: 78960:1",
+            "price": 55999,
+            "images":[
+                "https://m.media-amazon.com/images/I/81vDZyJQ-2L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/81vDZyJQ-2L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/81vDZyJQ-2L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/81vDZyJQ-2L._SX679_.jpg"
+            ]
         }
     ]
 }
