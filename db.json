@@ -83,29 +83,6 @@
                 "https://m.media-amazon.com/images/I/513AH8OxZyL._SY606_.jpg",
                 "https://m.media-amazon.com/images/I/71ClqUNcJgL._SX679_.jpg"
             ]
-        },
-        {
-            "id": 8,
-            "name": "POCO X5 Pro 5G (Astral Black, 256 GB) (8 GB RAM)",
-            "description": "8 GB RAM | 256 GB ROM /n 16.94 cm (6.67 inch) Full HD+ Display /n 108MP + 8MP + 2MP | 16MP Front Camera /n 5000 mAh Battery /n Qualcomm Snapdragon 778G Processor",
-            "price": 21999,
-            "images":[
-                "https://m.media-amazon.com/images/I/51bBMoB0GhL._SY606_.jpg",
-                "https://m.media-amazon.com/images/I/61APl4mxXzL._SY606_.jpg",
-                "https://m.media-amazon.com/images/I/61vgIApQH+L._SY606_.jpg",
-                "https://m.media-amazon.com/images/I/61srFh8oYCL._SY606_.jpg"
-            ]
-        },        {
-            "id": 9,
-            "name": "Acer One 14 AMD Ryzen 3 3250U Processor (8GB RAM/512GB SSD/AMD Radeon Graphics/Windows 11 Home) Thin and Light Laptop Z2-493 with 35.56 cm HD Display",
-            "description": "AMD Dual Core CPU : AMD Ryzen 3 3250U Processor (Base Frequency at 2.60GHz, Up to 3.50GHz at Maximum Boost Clock, 2 Cores, 4MB Cache, 4 Threads). The perfect combination of performance, power consumption, and value helps your device run smoothly. AMD Radeon Graphics /n Smooth and Clear Display : 14 HD (1366 X 768) Display, 16:9 aspect ratio and narrow bezels enjoy your photos, movies, and games with the crisp quality. /n RAM and Storage : 8GB high-bandwidth DDR4 RAM is enabled to smoothly run multiple applications and browser tabs all at once; 512 GB SSD allows to fast bootup and data transfer /n OS : Windows 11 Home, Pre-Installed Software: MS Office Home and Student /n Various Connectivity Options : HDMI, USB 3.2, Gen 1, Type A & C ports and Fast connectivity through Gigabit LAN",
-            "price": 27490,
-            "images":[
-                "https://m.media-amazon.com/images/I/71NKq8zV8ML._SY450_.jpg",
-                "https://m.media-amazon.com/images/I/71eFxs1-U+L._SY450_.jpg",
-                "https://m.media-amazon.com/images/I/71eFxs1-U+L._SY450_.jpg",
-                "https://m.media-amazon.com/images/I/51AdFQhVzCL._SP687,477,0%7C51RSDkh59nL.jpg,51b2vTYFNoL.jpg,41ewY0FhhNL.jpg,41yx7-2b7FL.jpg,51PeDp1Jn3L.jpg_.jpg"
-            ]
         }
     ]
 }
