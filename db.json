@@ -14,14 +14,97 @@
         },
         {
             "id": 2,
-            "name": "OnePlus 9R 5G (Lake Blue, 8GB RAM, 128GB Storage)",
-            "description": "Qualcomm Snapdragon 870 5G with upgraded Qualcomm Kryo 585 CPU that performs intense mobile computing at up to 3.2 GHz and also comes with an ultra-fast Qualcomm Adreno 650 GPU for superb on-device experiences\nLoaded with Quad rear camera module that features a 48 MP Main camera, 16 MP Ultra Wide angle Camera, 5 MP Macro camera and a 2 MP Monochrome camera. The device also comes with a 16 MP front Camera\nOnePlus 9R comes with 4500 mAh massive battery with dual cell 65W fast charging technology (Warp Charge 65T) that can charge the device fully in just 39 minutes\n6.55 Inches Fluid AMOLED display with 120 Hz of Refresh rate\nOxygen OS based on Andriod 11\nHands-Free access to Alexa: Alexa on your phone lets you make phone calls, open apps, control smart home devices, access the library of Alexa skills, and more using just your voice while on-the-go. Download the Alexa app and complete hands-free setup to get started. Just ask - and Alexa will respond instantly",
-            "price": 39999,
+            "name": "Samsung Galaxy F54 5G (Stardust Silver, 256 GB) (8 GB RAM)",
+            "description": "RAM, ROM & Expandable Storage:- 8 GB RAM | 256 GB ROM | Expandable Upto 1 TB /n Display:- 17.02 cm (6.7 inch) Full HD+ Display | Boundless Entertainment, Designed with a 16.95 cm (6.7) FHD display that combines a super AMOLED screen with 120 Hz refresh rates, this Galaxy series phone is sure to thrill you all day with its boundless entertainment. With the addition of the Plus Eye Comfort Shield, which protects your eyes against emissions from blue light, you get to witness a super immersive experience—all the time. /n 【Processor】:- Octa Core Processor | Samsung Exynos 1380 Processor Upgrade your performance by upgrading your processor. This stunning Samsung Galaxy F54 smartphone is constructed with a powerful Samsung Exynos 1380 processor that provides you with 16 GB of RAM with RAM Plus. You also get an enormous storage space of 256 GB that can be expanded up to 1TB. So your favourite content is at your fingertips and can be accessed anytime, right on your phone.",
+            "price": 26950,
             "images":[
-                "https://m.media-amazon.com/images/I/71m05O2uNdS._SX425_.jpg",
-                "https://m.media-amazon.com/images/I/71m05O2uNdS._SX425_.jpg",
-                "https://m.media-amazon.com/images/I/71m05O2uNdS._SX425_.jpg",
-                "https://m.media-amazon.com/images/I/71m05O2uNdS._SX425_.jpg"
+                "https://m.media-amazon.com/images/I/81cjnxL6jbL._SX466_.jpg",
+                "https://m.media-amazon.com/images/I/81p7ZAYrcmL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71aecQ4dWQL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/81WewRa8flL._SX679_.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Motorola G32 (Rose Gold, 8GB RAM, 128GB Storage)",
+            "description": "[RAM & ROM]:- 8GB RAM & 128GB Storage | Upto 1TB Expandable (Additionally, a microSD card allows you to easily add up to 1 TB of extra storage capacity)./n [Display] :- Dynamic Display, The stunning 16.51 cm (6.5) Full HD+ ultra-wide display on the Moto G32 smartphone allows you to experience everything on the screen with incredibly crisp and crystal-clear graphics. Additionally, Full HD+ resolution makes pictures and movies vivid and prevents pixelation for crystal-clear, comprehensive visuals. With a 90 Hz refresh rate, switching between apps is effortless, resulting in lag-free streaming, binge-watching, and gaming./n [Dolby Atmos Speakers] :- Dolby Atmos Domination, You can enjoy your favourite television shows, music, video games, and other media with a sound that embraces you thanks to Dolby Atmos audio. Moreover, a completely immersive music experience is also provided by the sound system's two powerful stereo speakers.",
+            "price": 8999,
+            "images":[
+                "https://m.media-amazon.com/images/I/41dFCK3Is1L._SX300_SY300_QL70_FMwebp_.jpg",
+                "https://m.media-amazon.com/images/I/61JTn4byDNL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61EcsVpdVEL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71Kt4SgL-ZL._SX679_.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "MI 10T 5G Cosmic Black, 8GB RAM, 128GB Storage - |Additional Exchange/No Cost EMI Offers",
+            "description": "[RAM & ROM]:- 8GB RAM & 128GB Storage | Upto 1TB Expandable (Additionally, a microSD card allows you to easily add up to 1 TB of extra storage capacity)./n [Display] :- Dynamic Display, The stunning 16.51 cm (6.5) Full HD+ ultra-wide display on the Moto G32 smartphone allows you to experience everything on the screen with incredibly crisp and crystal-clear graphics. Additionally, Full HD+ resolution makes pictures and movies vivid and prevents pixelation for crystal-clear, comprehensive visuals. With a 90 Hz refresh rate, switching between apps is effortless, resulting in lag-free streaming, binge-watching, and gaming./n [Dolby Atmos Speakers] :- Dolby Atmos Domination, You can enjoy your favourite television shows, music, video games, and other media with a sound that embraces you thanks to Dolby Atmos audio. Moreover, a completely immersive music experience is also provided by the sound system's two powerful stereo speakers.",
+            "price": 34999,
+            "images":[
+                "https://m.media-amazon.com/images/I/31Qy4Tf82UL._SX300_SY300_QL70_FMwebp_.jpg",
+                "https://m.media-amazon.com/images/I/71RONFsTkTL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71I0LXl456L._SY606_.jpg",
+                "https://m.media-amazon.com/images/I/61doEfvnAeL._SX679_.jpg"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "2&CO Pixel 7 5G (Obsidian Black, 8GB RAM, 128GB Storage)",
+            "description": "Tensor G2 makes the 5G-ready Pixel 7 faster, more efficient, and more secure and it delivers even more helpful features. Experience the best photo and video quality yet on Pixel. /n The Pixel 7 Camera takes incredible photos and videos in stunning colour and detail. It includes Super Res Zoom so that you can get super-sharp close-ups without an extra telephoto lens. Pixel also has Cinematic blur that helps bring more drama to videos by keeping your subject in focus and blurring the background. Furthermore, Magic eraser, Real Tone, Photo Unblur, and Guided Frame make for an amazing photography experience. /n The Pixel 7's 16.002 cm (6.3) display is super sharp, with rich, vivid colours. And it's fast and responsive for smoother gaming, scrolling, and moving between apps. /n Pixel's Adaptive Battery can last up to 24 hours. Turn on Extreme Battery Saver, and the battery can last up to 72 hours. And your Pixel charges super fast.",
+            "price": 46990,
+            "images":[
+                "https://m.media-amazon.com/images/I/61-kYrqYrgL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/31bMWK6CYeL._SY606_.jpg",
+                "https://m.media-amazon.com/images/I/51vvT7sLDhL._SY606_.jpg",
+                "https://m.media-amazon.com/images/I/41zQqaPbm2L._SY606_.jpg"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Oppo Reno 8T 5G (Sunrise Gold, 8GB RAM, 128GB Storage)",
+            "description": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB /n 17.02 cm (6.7 inch) Full HD+ Display /n 108MP + 2MP + 2MP | 32MP Front Camera /n 4800 mAh Lithium-ion Polymer Battery /n Qualcomm Snapdragon 695 Processor",
+            "price": 25999,
+            "images":[
+                "https://m.media-amazon.com/images/I/31qmJS-r2XL.jpg",
+                "https://m.media-amazon.com/images/I/21tlVekaEGL.jpg",
+                "https://m.media-amazon.com/images/I/21qC2mOx28L.jpg",
+                "https://m.media-amazon.com/images/I/3194bNZ7MfL.jpg"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Vivo V29 5G ((Blue, 128 GB) (8 GB RAM))",
+            "description": "Ultra Slim 3D Curved Display /n Night Portrait with Smart Aura Light /n 50 MP Eye AF Group Selfie Camera /n India Exclusive Wedding Style Portrait /n 80 W FlashCharge /n 50 MP OIS Night Camera /n Super Night Video",
+            "price": 37000,
+            "images":[
+                "https://m.media-amazon.com/images/I/71O7WHaWNCL._SX522_.jpg",
+                "https://m.media-amazon.com/images/I/61Sp2el2yiL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/513AH8OxZyL._SY606_.jpg",
+                "https://m.media-amazon.com/images/I/71ClqUNcJgL._SX679_.jpg"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "POCO X5 Pro 5G (Astral Black, 256 GB) (8 GB RAM)",
+            "description": "8 GB RAM | 256 GB ROM /n 16.94 cm (6.67 inch) Full HD+ Display /n 108MP + 8MP + 2MP | 16MP Front Camera /n 5000 mAh Battery /n Qualcomm Snapdragon 778G Processor",
+            "price": 21999,
+            "images":[
+                "https://m.media-amazon.com/images/I/51bBMoB0GhL._SY606_.jpg",
+                "https://m.media-amazon.com/images/I/61APl4mxXzL._SY606_.jpg",
+                "https://m.media-amazon.com/images/I/61vgIApQH+L._SY606_.jpg",
+                "https://m.media-amazon.com/images/I/61srFh8oYCL._SY606_.jpg"
+            ]
+        },        {
+            "id": 9,
+            "name": "Acer One 14 AMD Ryzen 3 3250U Processor (8GB RAM/512GB SSD/AMD Radeon Graphics/Windows 11 Home) Thin and Light Laptop Z2-493 with 35.56 cm HD Display",
+            "description": "AMD Dual Core CPU : AMD Ryzen 3 3250U Processor (Base Frequency at 2.60GHz, Up to 3.50GHz at Maximum Boost Clock, 2 Cores, 4MB Cache, 4 Threads). The perfect combination of performance, power consumption, and value helps your device run smoothly. AMD Radeon Graphics /n Smooth and Clear Display : 14 HD (1366 X 768) Display, 16:9 aspect ratio and narrow bezels enjoy your photos, movies, and games with the crisp quality. /n RAM and Storage : 8GB high-bandwidth DDR4 RAM is enabled to smoothly run multiple applications and browser tabs all at once; 512 GB SSD allows to fast bootup and data transfer /n OS : Windows 11 Home, Pre-Installed Software: MS Office Home and Student /n Various Connectivity Options : HDMI, USB 3.2, Gen 1, Type A & C ports and Fast connectivity through Gigabit LAN",
+            "price": 27490,
+            "images":[
+                "https://m.media-amazon.com/images/I/71NKq8zV8ML._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71eFxs1-U+L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/71eFxs1-U+L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51AdFQhVzCL._SP687,477,0%7C51RSDkh59nL.jpg,51b2vTYFNoL.jpg,41ewY0FhhNL.jpg,41yx7-2b7FL.jpg,51PeDp1Jn3L.jpg_.jpg"
             ]
         }
     ]
