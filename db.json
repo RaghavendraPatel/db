@@ -3,85 +3,13 @@
         {
             "id": 1,
             "name": "Oneplus Open (Voyager Black, 16GB RAM, 512GB Storage)",
-            "description": "Extraordinary materials blend the best of both. Titanium alloy, carbon fiber, and more. Built to the hilt with aerospace materials – with no expense spared. TÜV Rheinland “reliable folding” certified to 1,000,000 folds.Extreme durability for more than 100 folds every day – lasting over 10 years./nDual ProXDR displays; Cover Display: 6.31” 2K resolution, Super Fluid AMOLED at 1440 Hz - Shielded by Ceramic Guard Dual-Displays: 7.82” 2K resolution, Flexi-fluid AMOLED 89.6% screen-to-body ratio at 1440 Hz - Shielded by Ultra Thin Glass",
+            "description": "Extraordinary materials blend the best of both. Titanium alloy, carbon fiber, and more. Built to the hilt with aerospace materials – with no expense spared. TÜV Rheinland “reliable folding” certified to 1,000,000 folds.Extreme durability for more than 100 folds every day – lasting over 10 years.\nDual ProXDR displays; Cover Display: 6.31” 2K resolution, Super Fluid AMOLED at 1440 Hz - Shielded by Ceramic Guard Dual-Displays: 7.82” 2K resolution, Flexi-fluid AMOLED 89.6% screen-to-body ratio at 1440 Hz - Shielded by Ultra Thin Glass\nMain camera with OIS 48MP SONY LYT-T800 “Pixel Stacked” Sensor 1/1.43” sensor, 1.12μm, ƒ/1.65, AF Telephoto with OIS 64MP OV64B Sensor with 3X Optical Zoom 6X in-sensor zoom, 1/2” sensor, 0.7 μm, ƒ/2.6, AF Ultra-wide 48MP Sony IMX581 with 114o FOV 1/2” sensor, ƒ/2.2, AF\nMinimum crease. Maximum smooth. Our patented Flexion hinge mechanism, 8-axis pressure relief, and under-display micro-weaving significantly reduce creases. The “waterdrop”-shaped tension relief mechanism ensures a larger bend radius, minimizing the display crease.",
             "price": 139000,
             "images":[
                 "https://m.media-amazon.com/images/I/719QmmyMLYL._SX425_.jpg",
                 "https://m.media-amazon.com/images/I/718LQXZabKL._SX425_.jpg",
                 "https://m.media-amazon.com/images/I/71LIhuGh+4L._SX425_.jpg",
                 "https://m.media-amazon.com/images/I/813FGVkfcbL._SX425_.jpg"
-            ]
-        },
-        {
-            "id":2,
-            "name": "OnePlus 9R 5G (Carbon Black, 8GB RAM, 128GB Storage)",
-            "description": "Qualcomm Snapdragon 870 5G with upgraded Qualcomm Kryo 585 CPU that performs intense mobile computing at up to 3.2 GHz and also comes with an ultra-fast Qualcomm Adreno 650 GPU for superb on-device experiences",
-            "price": 39999,
-            "images":[
-                "https://m.media-amazon.com/images/I/61IwksZ-DuL._SX679_.jpg",
-                "https://m.media-amazon.com/images/I/61IwksZ-DuL._SX679_.jpg",
-                "https://m.media-amazon.com/images/I/61IwksZ-DuL._SX679_.jpg",
-                "https://m.media-amazon.com/images/I/61IwksZ-DuL._SX679_.jpg"
-            ]
-        },
-        {
-            "id":3,
-            "name":"Iphone 12 Pro Max",
-            "description":"6.7-inch Super Retina XDR display with ProMotion for a faster, more responsive feel",
-            "price": 129900,
-            "images":[
-                "https://m.media-amazon.com/images/I/71MHTD3uL4L._SX679_.jpg",
-                "https://m.media-amazon.com/images/I/71MHTD3uL4L._SX679_.jpg",
-                "https://m.media-amazon.com/images/I/71MHTD3uL4L._SX679_.jpg",
-                "https://m.media-amazon.com/images/I/71MHTD3uL4L._SX679_.jpg"
-            ]
-        },
-        {
-            "id":4,
-            "name":"Samsung Galaxy S21 Ultra 5G (Phantom Black, 12GB, 256GB Storage)",
-            "description":"6.8-inch Dynamic AMOLED 2X Display, WQHD+ resolution with 3200 X 1440 pixels resolution, 515 PPI with 16M colours",
-            "price": 105999,
-            "images":[
-                "https://m.media-amazon.com/images/I/91M7V8vlS-L._SX679_.jpg",
-                "https://m.media-amazon.com/images/I/91M7V8vlS-L._SX679_.jpg",
-                "https://m.media-amazon.com/images/I/91M7V8vlS-L._SX679_.jpg",
-                "https://m.media-amazon.com/images/I/91M7V8vlS-L._SX679_.jpg"
-            ]
-        },
-        {
-            "id":5,
-            "name":"Samsung Galaxy Note 20 Ultra 5G (Mystic Black, 12GB RAM, 256GB Storage)",
-            "description":"6.9-inch (17.53 centimeters) WQHD+ dynamic Amoled display with 3088 x 1440 pixels resolution, 496 ppi pixel density and 16M color support",
-            "price": 104999,
-            "images":[
-                "https://m.media-amazon.com/images/I/81vDZyJQ-2L._SX679_.jpg",
-                "https://m.media-amazon.com/images/I/81vDZyJQ-2L._SX679_.jpg",
-                "https://m.media-amazon.com/images/I/81vDZyJQ-2L._SX679_.jpg",
-                "https://m.media-amazon.com/images/I/81vDZyJQ-2L._SX679_.jpg"
-            ]
-        },
-        {
-            "id":6,
-            "name":"Samsung Galaxy S21 Plus 5G (Phantom Black, 8GB, 128GB Storage)",
-            "description":"6.7-inch Dynamic AMOLED 2X Display, FHD+ resolution with 2400 X 1080 pixels resolution, 394 PPI with 16M colours",
-            "price": 81999,
-            "images":[
-                "https://m.media-amazon.com/images/I/91M7V8vlS-L._SX679_.jpg",
-                "https://m.media-amazon.com/images/I/91M7V8vlS-L._SX679_.jpg",
-                "https://m.media-amazon.com/images/I/91M7V8vlS-L._SX679_.jpg",
-                "https://m.media-amazon.com/images/I/91M7V8vlS-L._SX679_.jpg"
-            ]
-        },
-        {
-            "id":7,
-            "name":"Samsung Galaxy S20 FE 5G (Cloud Navy, 8GB RAM, 128GB Storage)",
-            "description":"6.5-inch (16.51 centimeters) Super AMOLED - Infinity-O display, FHD+ capacitive touchscreen with 1080 x 2400 pixels resolution, 407 ppi pixel density and Contrast Ratio: 78960:1",
-            "price": 55999,
-            "images":[
-                "https://m.media-amazon.com/images/I/81vDZyJQ-2L._SX679_.jpg",
-                "https://m.media-amazon.com/images/I/81vDZyJQ-2L._SX679_.jpg",
-                "https://m.media-amazon.com/images/I/81vDZyJQ-2L._SX679_.jpg",
-                "https://m.media-amazon.com/images/I/81vDZyJQ-2L._SX679_.jpg"
             ]
         }
     ]
